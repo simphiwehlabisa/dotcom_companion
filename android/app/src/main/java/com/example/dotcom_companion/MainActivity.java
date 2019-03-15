@@ -1,4 +1,4 @@
-package com.example.dotcom_companion;
+package com.adslive.companion;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
